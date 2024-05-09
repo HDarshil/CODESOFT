@@ -1,0 +1,55 @@
+
+
+
+
+#header{
+    padding: 10px;
+    margin: 10px;
+    box-sizing: border-box;
+    align-content:center;
+    border: 10cm;
+   /* background-image: url(kohli.jpg);*/
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: darken;
+    opacity: 0.4;
+}
+
+header.headerdiv{
+    opacity: 1;
+}
+#headerdiv{
+   text-align: center;
+   font-family: 'Arial Narrow Bold', sans-serif;
+   
+}
+
+#span{
+    font-family: cursive;
+}
+
+#img{
+    float: left;
+    border: none; 
+    height: 500px;
+    width: 1000px;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
+#list1{
+    text-align: left;
+ }
+
+ #footer{
+    padding: 10px;
+    margin: 10px;
+    box-sizing: border-box;
+    align-content: center;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    background-color: aliceblue;
+    font-size: larger;
+ }
